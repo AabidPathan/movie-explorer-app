@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,25 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Movie Explorer App
+
+A responsive Movie Explorer App built with React.js and OMDb API.
+
+## Features
+- Search movies
+- View movie details
+- Add movies to favorites
+- Responsive design
+
+## Technologies Used
+- React.js
+- CSS3
+- OMDb API
+
+## Live Demo
+(Add your Netlify link here)
+
+## Author
+Aabid Pathan
+>>>>>>> a256896a0eecebfa089f9657d2654a69337f4cdb
