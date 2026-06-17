@@ -25,7 +25,7 @@ const App = () => {
       setError("");
       const API_KEY = "9f0581e2";
       const response = await fetch(
-        `http://www.omdbapi.com/?s=${movieName}&apikey=${"9f0581e2"}`,
+        `https://www.omdbapi.com/?s=${movieName}&apikey=${"9f0581e2"}`,
       );
 
       const data = await response.json();
